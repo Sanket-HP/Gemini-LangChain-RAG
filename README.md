@@ -12,7 +12,7 @@ This project demonstrates the use of LangChain for creating a question-answering
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sanket-HP/Gemini-LangChain-RAG.git
 
    
 cd gemini-langchain-rag
